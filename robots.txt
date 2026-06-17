@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bimbimm25.github.io/portofoliov2/sitemap.xml
+Sitemap: https://bima-ardiansyah.netlify.app/sitemap.xml
