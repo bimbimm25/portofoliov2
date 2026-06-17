@@ -1011,6 +1011,13 @@ font-family: var(--second-font);
         height: 220px;
     }
 
+    /* Tambahkan properti pada class yang membungkus teks tersebut */
+    .profesi-1 {
+        width: auto;
+        white-space: nowrap; /* Mencegah teks turun ke baris bawah */
+        font-size: 1.2rem;   /* Kecilkan ukuran font agar muat di layar 320px (sesuaikan nilainya) */
+    }
+
     .project-card {
         padding-inline: 1rem;
     }
