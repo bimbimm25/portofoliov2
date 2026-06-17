@@ -1001,7 +1001,7 @@ font-family: var(--second-font);
 
 /*== responsive design ==*/
 /* Small screen */
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 370px) {
     .container {
         margin-inline: 1rem;
     }
@@ -1010,6 +1010,17 @@ font-family: var(--second-font);
         width: 220px;
         height: 220px;
     }
+
+    .home-shadow {
+    width: 100%;
+    height: 258px;
+    position: absolute;
+    bottom: -15rem;
+    z-index: 2;
+    background: linear-gradient(180deg,
+            hsla(240, 100%, 2%, 0) 30%,
+            hsl(240, 100%, 2%) 95%);
+}
 
     /* Tambahkan properti pada class yang membungkus teks tersebut */
     .profesi-1 {
