@@ -309,7 +309,7 @@ img {
 .home-shadow {
     width: 100%;
     height: 375px;
-    bottom: -10rem;
+    bottom: 6rem;
     z-index: 1;
     background: linear-gradient(180deg,
             hsla(240, 100%, 2%, 0) 60%,
