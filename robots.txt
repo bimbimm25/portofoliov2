@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bimbimm25.github.io/portofoliov2/sitemap.xml
